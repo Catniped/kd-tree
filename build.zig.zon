@@ -1,5 +1,7 @@
 .{
-    .name = "kd-tree",
+    .name = .kd_tree,
+
+    .fingerprint = 0xab8153f74c53f620,
 
     .version = "0.0.1",
 
